@@ -52,9 +52,9 @@ public class PetStats : MonoBehaviour
         }
         #endregion
 
-        Debug.Log($"Health: {Health}");
-        Debug.Log($"Hunger: {Hunger}");
-        Debug.Log($"Happiness: {Happiness}");
+        //Debug.Log($"Health: {Health}");
+        //Debug.Log($"Hunger: {Hunger}");
+        //Debug.Log($"Happiness: {Happiness}");
     }
 
     #endregion
